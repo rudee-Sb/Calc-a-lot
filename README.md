@@ -23,6 +23,10 @@ In addition to standard calculations, the webpage features a programmer calculat
 
 ## Demo
 
+Check out the live demo of the JavaScript Calculator on GitHub Pages: [View Demo](https://rudee-Sb.github.io/Calc-a-lot/)
+
+This demo showcases the functionality of the calculator, allowing users to perform standard calculations and switch between different calculator types using a dropdown menu.
+
 
 ## Contributions
 
