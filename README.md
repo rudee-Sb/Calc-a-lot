@@ -5,13 +5,15 @@ A versatile web page featuring standard, scientific, and programmer calculators 
 ## Features
 
 - Standard Calculator : Performs basic arithmetic operations like addition, subtraction, multiplication, and division.
-- Progammer Calculator : Converts values between different numeral systems (binary, octal, decimal, hexadecimal)
+- Progammer Calculator : Converts values between different numeral systems (binary, octal, decimal, hexadecimal).
+- Scientific Calculator : Performs higher arithmetic operations like logarithmic and trignometric calculations.
 - Dropdown Menu: Easily switch between different calculators using a dropdown menu in the header.
 - Easy to use : Intuitive interface designed for quick access to all calculator functionalities.
 
-## Planned Features
+## Under-development Features
 
-- **Scientific Calculator**: Coming soon! Will handle advanced functions like trigonometry and logarithms.
+- **Scientific Calculator**: Will handle advanced functions like trigonometry and logarithms.
+- **Responsive Web design**: The website will be fully responsive in the future, ensuring optimal experience across devices.
 
 ## How It Works
 
