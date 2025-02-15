@@ -12,7 +12,6 @@ A versatile web page featuring standard, scientific, and programmer calculators 
 
 ## Under-development Features
 
-- **Scientific Calculator**: Will handle advanced functions like trigonometry and logarithms.
 - **Responsive Web design**: The website will be fully responsive in the future, ensuring optimal experience across devices.
 
 ## How It Works
